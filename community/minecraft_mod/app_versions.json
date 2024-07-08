@@ -16,7 +16,7 @@
             "name": "minecraft_mod",
             "description": "Minecraft is a sandbox game",
             "annotations": {
-                "title": "Minecraft Mod"
+                "title": "Minecraft-Mod"
             },
             "type": "application",
             "version": "1.2.14",
