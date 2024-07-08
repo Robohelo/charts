@@ -1,7 +1,7 @@
-name: minecraft
+name: minecraft_mod
 description: Minecraft is a sandbox game
 annotations:
-  title: Minecraft
+  title: Minecraft-Mod
 type: application
 version: 1.2.14
 apiVersion: v2
